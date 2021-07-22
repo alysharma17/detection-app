@@ -1,0 +1,31 @@
+.btn-info {
+    width:100%;
+    height:8%;
+    font-size:xx-large;
+    box-shadow:10px 10px 10px lightskyblue;
+}
+
+.btn-primary {
+    box-shadow: 10px 10px 10px rgb(0, 0, 255);
+    margin-left:70px;
+    background-color:rgb(0, 0, 255);
+}
+
+.btn-primary:hover {
+    box-shadow: 10px 10px 10px rgb(255, 0, 0);
+    background-color:rgb(0, 0, 255);
+}
+
+.btn-danger {
+    box-shadow: 10px 10px 10px rgb(255, 0, 0);
+    margin-right:70px;
+    background-color: rgb(255, 0, 0);
+}
+
+.btn-danger:hover {
+    box-shadow: 10px 10px 10px rgb(0, 0, 255);
+    margin-right:70px;
+}
+.btn-warning {
+    box-shadow:10px 10px 10px rgb(255, 196, 0);
+}
